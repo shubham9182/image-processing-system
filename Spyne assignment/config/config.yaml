@@ -1,0 +1,9 @@
+database:
+  path: "image_processing.db"
+
+server:
+  host: "0.0.0.0"
+  port: 5000
+
+image_processing:
+  compression_quality: 50
